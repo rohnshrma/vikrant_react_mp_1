@@ -3,6 +3,7 @@ import Cart from './Components/Cart/Cart';
 import Header from './Components/Layout/Header';
 import Meals from './Components/Meals/Meals';
 import CartProvider from './Components/store/CartProvider';
+import CartContext from "./Components/store/cart-context"
 
 function App() {
 
@@ -21,7 +22,7 @@ function App() {
       {cartIsShown && <Cart onHideCart={hideCartHandler} />}
       <Header onShowCart={showCartHandler} />
       <main><Meals /></main>
-      </CartProvider>
+    </CartProvider>
   );
 }
 

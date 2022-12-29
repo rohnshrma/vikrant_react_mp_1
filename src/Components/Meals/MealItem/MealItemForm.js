@@ -9,14 +9,18 @@ const MealItemForm = (props) => {
     const submitHandler = (event) => {
         console.log("triggered");
         event.preventDefault()
+        // string 
         const enteredAmount = amountInputRef.current.value
+        // converted to num
         const enteredAmountNumber = +enteredAmount
         if (enteredAmount.trim().length === 0 ||
             enteredAmountNumber < 1 ||
             enteredAmountNumber > 5
         ) {
             setAmountIsValid(false)
+            return ;
         }
+        props.onAddToCart(enteredAmountNumber )
         // console.log(enteredAmount);
     }
     console.log(amountIsValid);

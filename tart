@@ -1,0 +1,65 @@
+[33mcommit 693393c6caffdd0a6af0786399ea224e1e67d3b3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: rohnshrma <rohn11shrma@gmail.com>
+Date:   Thu Dec 29 22:24:01 2022 +0530
+
+    outputing cart items
+
+[33mcommit 4d3077852977713ef8b848e445ca2bc7499acb6c[m
+Author: rohnshrma <rohn11shrma@gmail.com>
+Date:   Tue Dec 27 22:28:53 2022 +0530
+
+    reducer added to cart and started handling submit
+
+[33mcommit cf8d4a8497768bde8ccc67503e2a9c2ff1926f29[m
+Author: rohnshrma <rohn11shrma@gmail.com>
+Date:   Mon Dec 26 21:49:21 2022 +0530
+
+    creating cart context
+
+[33mcommit 616d2c87727037f7a2ae57ad153ad93653b28fd0[m
+Author: rohnshrma <rohn11shrma@gmail.com>
+Date:   Fri Dec 23 21:36:45 2022 +0530
+
+    modal hide and show
+
+[33mcommit 0531270f27447bc8dac44d4b70976fe4d640965b[m
+Author: rohnshrma <rohn11shrma@gmail.com>
+Date:   Thu Dec 22 22:30:18 2022 +0530
+
+    cart and cart modal done (state still pending)
+
+[33mcommit e7d5cbc6b9f399ce71dbdf87cd58ad110d839b1f[m
+Author: rohnshrma <rohn11shrma@gmail.com>
+Date:   Thu Dec 22 22:02:07 2022 +0530
+
+    meaItemForm done
+
+[33mcommit 5823bca1f7f3c57ee42b27819e41bd643110bfd6[m
+Author: rohnshrma <rohn11shrma@gmail.com>
+Date:   Wed Dec 21 22:40:10 2022 +0530
+
+    mealitemform in progress....
+
+[33mcommit df9a284405f022be564d5c527ca3234a9a518626[m
+Author: rohnshrma <rohn11shrma@gmail.com>
+Date:   Wed Dec 21 22:19:10 2022 +0530
+
+    adding meals (without form)
+
+[33mcommit bd02993f891f9c05a8cb54965d0cc97ea8d20844[m
+Author: rohnshrma <rohn11shrma@gmail.com>
+Date:   Tue Dec 20 21:49:56 2022 +0530
+
+    corrected by adding the return keyword
+
+[33mcommit 236b45d371bfd6de1d9af243e037e40acacd23a9[m
+Author: rohnshrma <rohn11shrma@gmail.com>
+Date:   Mon Dec 19 22:34:29 2022 +0530
+
+    started project and added header component
+
+[33mcommit 73de408ee3647c41976d8df67bdfc7a912e8d668[m
+Author: rohnshrma <rohn11shrma@gmail.com>
+Date:   Mon Dec 19 22:14:57 2022 +0530
+
+    Initialize project using Create React App
